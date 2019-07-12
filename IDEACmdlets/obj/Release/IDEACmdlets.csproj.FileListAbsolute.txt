@@ -1,0 +1,8 @@
+D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\bin\Release\IDEACmdlets.dll
+D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\bin\Release\IDEACmdlets.pdb
+D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\bin\Release\System.Management.Automation.dll
+D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Release\IDEACmdlets.csprojAssemblyReference.cache
+D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Release\IDEACmdlets.csproj.CoreCompileInputs.cache
+D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Release\IDEACmdlets.csproj.CopyComplete
+D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Release\IDEACmdlets.dll
+D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Release\IDEACmdlets.pdb

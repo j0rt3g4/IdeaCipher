@@ -1,7 +1,6 @@
 D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\bin\Debug\IDEACmdlets.dll
 D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\bin\Debug\IDEACmdlets.pdb
 D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\bin\Debug\System.Management.Automation.dll
-D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Debug\IDEACmdlets.csprojAssemblyReference.cache
 D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Debug\IDEACmdlets.csproj.CoreCompileInputs.cache
 D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Debug\IDEACmdlets.csproj.CopyComplete
 D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Debug\IDEACmdlets.dll

@@ -1,0 +1,12 @@
+D:\ghcode\j0rt3g4\IdeaCipher\IdeaCipher\bin\Debug\IdeaCipher.exe.config
+D:\ghcode\j0rt3g4\IdeaCipher\IdeaCipher\bin\Debug\IdeaCipher.exe
+D:\ghcode\j0rt3g4\IdeaCipher\IdeaCipher\bin\Debug\IdeaCipher.pdb
+D:\ghcode\j0rt3g4\IdeaCipher\IdeaCipher\bin\Debug\System.Management.Automation.dll
+D:\ghcode\j0rt3g4\IdeaCipher\IdeaCipher\obj\Debug\IdeaCipher.csprojAssemblyReference.cache
+D:\ghcode\j0rt3g4\IdeaCipher\IdeaCipher\obj\Debug\IdeaCipher.cipherForm.resources
+D:\ghcode\j0rt3g4\IdeaCipher\IdeaCipher\obj\Debug\IdeaCipher.Properties.Resources.resources
+D:\ghcode\j0rt3g4\IdeaCipher\IdeaCipher\obj\Debug\IdeaCipher.csproj.GenerateResource.cache
+D:\ghcode\j0rt3g4\IdeaCipher\IdeaCipher\obj\Debug\IdeaCipher.csproj.CoreCompileInputs.cache
+D:\ghcode\j0rt3g4\IdeaCipher\IdeaCipher\obj\Debug\IdeaCipher.csproj.CopyComplete
+D:\ghcode\j0rt3g4\IdeaCipher\IdeaCipher\obj\Debug\IdeaCipher.exe
+D:\ghcode\j0rt3g4\IdeaCipher\IdeaCipher\obj\Debug\IdeaCipher.pdb

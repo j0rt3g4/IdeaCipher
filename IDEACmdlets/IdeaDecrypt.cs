@@ -12,7 +12,7 @@ namespace IDEACmdlets
         [ValidateNotNull]
         public string Key { get; set; }
 
-        [Parameter(Mandatory = true, Position = 0, ValueFromPipeline = true)]
+        [Parameter(Mandatory = true, Position = 1, ValueFromPipeline = true)]
         [ValidateNotNull]
         public string Input { get; set; }
 
