@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/International_Data_Encryption_Algorithm
 
 
 Open SLN.
-Compile the projet
+Compile the project
 
 # How to use the IDEACmdlets
 - Go to the Realease or BIN Folder
