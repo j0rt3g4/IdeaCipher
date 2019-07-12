@@ -1,12 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace IdeaCipher
@@ -27,15 +20,17 @@ namespace IdeaCipher
             {
                 MessageBox.Show("Input text should not be empty!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-            else if (string.IsNullOrWhiteSpace(inputKey.Text)) {
+            else if (string.IsNullOrWhiteSpace(inputKey.Text))
+            {
                 MessageBox.Show("Key word should be specified!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-            else {
+            else
+            {
                 File.WriteAllText(tempInputFilename, inputPlainText.Text);
-                IdeaCrypt.cryptFile(tempInputFilename, tempOutputFilename, inputKey.Text, true);
+                IdeaCrypt.CryptFile(tempInputFilename, tempOutputFilename, inputKey.Text, true);
                 inputEncryptedText.Text = String.Join(" ", File.ReadAllBytes(tempOutputFilename));
             }
-            
+
         }
 
         private void btnDecrypt_Click(object sender, EventArgs e)
@@ -59,7 +54,7 @@ namespace IdeaCipher
                 File.WriteAllBytes(tempOutputFilename, bytes);
                 try
                 {
-                    IdeaCrypt.cryptFile(tempOutputFilename, tempInputFilename, inputKey.Text, false);
+                    IdeaCrypt.CryptFile(tempOutputFilename, tempInputFilename, inputKey.Text, false);
                 }
                 catch (Exception exception)
                 {

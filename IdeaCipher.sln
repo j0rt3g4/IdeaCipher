@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaCipher", "IdeaCipher\IdeaCipher.csproj", "{BD320818-553C-498F-867A-58394F08A48E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDEACmdlets", "IDEACmdlets\IDEACmdlets.csproj", "{7C69A874-2762-4415-864E-413533BBC6C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{BD320818-553C-498F-867A-58394F08A48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD320818-553C-498F-867A-58394F08A48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD320818-553C-498F-867A-58394F08A48E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C69A874-2762-4415-864E-413533BBC6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C69A874-2762-4415-864E-413533BBC6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C69A874-2762-4415-864E-413533BBC6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C69A874-2762-4415-864E-413533BBC6C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3ADCB1E-CE55-49F8-8C9C-8221DE89E75E}
 	EndGlobalSection
 EndGlobal
