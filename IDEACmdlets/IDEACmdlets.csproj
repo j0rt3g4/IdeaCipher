@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IdeajgDecrypt.cs" />
+    <Compile Include="IdeajgEncrypt.cs.cs" />
     <Compile Include="IdeaEncrypt.cs" />
     <Compile Include="IdeaDecrypt.cs" />
     <Compile Include="Idea.cs" />

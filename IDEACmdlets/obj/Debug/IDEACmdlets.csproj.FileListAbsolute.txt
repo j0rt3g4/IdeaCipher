@@ -5,3 +5,4 @@ D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Debug\IDEACmdlets.csproj.CoreCompil
 D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Debug\IDEACmdlets.csproj.CopyComplete
 D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Debug\IDEACmdlets.dll
 D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Debug\IDEACmdlets.pdb
+D:\ghcode\j0rt3g4\IdeaCipher\IDEACmdlets\obj\Debug\IDEACmdlets.csprojAssemblyReference.cache

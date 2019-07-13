@@ -5,17 +5,15 @@ using System.Management.Automation;
 namespace IDEACmdlets
 {
     //Install-Package System.Management.Automation.dll -Version 10.0.10586
-    [Cmdlet(VerbsSecurity.Block, "DataWithIDEA")]
-    public class IdeaEncrypt : Cmdlet
+    [Cmdlet(VerbsSecurity.Protect, "ClientAndSecret")]
+    public class IdeajgEncrypt : Cmdlet
     {
-        [Parameter(Mandatory = true, Position = 0, ValueFromPipeline = true)]
-        [ValidateNotNull]
-        public string Key { get; set; }
-
         [Parameter(Mandatory = true, Position = 1, ValueFromPipeline = true)]
         [ValidateNotNull]
-
         public string Input { get; set; }
+
+
+        private readonly string Key = "This is my super secret key";
 
 
         private readonly String tempOutputFilename = "tempEncryptedData.dat";

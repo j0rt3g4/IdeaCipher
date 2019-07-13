@@ -81,14 +81,8 @@ namespace IDEACmdlets
             }
             finally
             {
-                if (inStream != null)
-                {
-                    inStream.Close();
-                }
-                if (outStream != null)
-                {
-                    outStream.Close();
-                }
+                inStream?.Close();
+                outStream?.Close();
             }
         }
 
